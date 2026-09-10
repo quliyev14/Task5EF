@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{82C37E91-12E7-4AF6-A258-1440572CCE64}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task5_Linq/Enums/Color.cs">
+    <Files>
+      <File FileName="Task5_Linq/Program.cs" Line="4" Column="1" />
+      <File FileName="Task5_Linq/Enums/Color.cs" Line="8" Column="12" />
+      <File FileName="Task5_Linq/Domain/Entities/Sale.cs" Line="1" Column="1" />
+      <File FileName="Task5_Linq/Domain/Entities/Customer.cs" Line="1" Column="1" />
+      <File FileName="Task5_Linq/Domain/Entities/Car.cs" Line="14" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Task5_Linq" expanded="True">
+            <Node name="Task5_Linq" expanded="True">
+              <Node name="DataAccess" selected="True" />
+              <Node name="Domain" expanded="True">
+                <Node name="Entities" expanded="True" />
+              </Node>
+              <Node name="Enums" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Task5__Linq PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>
