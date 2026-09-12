@@ -135,3 +135,4 @@
 /Users/elgun668icloud.com/Projects/Task5_Linq/Task5_Linq/obj/Debug/net8.0/Task5_Linq.pdb
 /Users/elgun668icloud.com/Projects/Task5_Linq/Task5_Linq/obj/Debug/net8.0/Task5_Linq.genruntimeconfig.cache
 /Users/elgun668icloud.com/Projects/Task5_Linq/Task5_Linq/obj/Debug/net8.0/ref/Task5_Linq.dll
+/Users/elgun668icloud.com/Projects/Task5_Linq/Task5_Linq/obj/Debug/net8.0/Task5_Linq.sourcelink.json

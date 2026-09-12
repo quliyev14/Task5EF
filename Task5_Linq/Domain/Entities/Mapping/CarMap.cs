@@ -22,24 +22,24 @@ namespace Task5_Linq.Domain.Entities.Mapping
                .IsRequired(true)
                .IsUnicode(true);
 
-            builder.Property(c => c.Price)
-               .HasDefaultValue("No Price");
+            //builder.Property(c => c.Price)
+            //   .HasDefaultValue("No Price");
 
-            builder.Property(c => c.Color)
-               .HasDefaultValue("No Color")
-               .HasMaxLength(50)
-               .IsRequired(true)
-               .IsUnicode(true);
+            //builder.Property(c => c.Color)
+            //   .HasDefaultValue("No Color")
+            //   .HasMaxLength(50)
+            //   .IsRequired(true)
+            //   .IsUnicode(true);
 
-            builder.Property(c => c.Year)
-               .HasDefaultValue("No Year")
-               .HasMaxLength(5);
+            //builder.Property(c => c.Year)
+            //   .HasDefaultValue("No Year")
+            //   .HasMaxLength(5);
 
-            builder.Property(c => c.Customer)
-            .HasDefaultValue("No Customer")
-            .HasMaxLength(30)
-            .IsRequired(true)
-            .IsUnicode(true);
+            //builder.Property(c => c.Customer)
+            //.HasDefaultValue("No Customer")
+            //.HasMaxLength(30)
+            //.IsRequired(true)
+            //.IsUnicode(true);
 
 
 
@@ -49,7 +49,7 @@ namespace Task5_Linq.Domain.Entities.Mapping
             builder.Property(c => c.Year).HasColumnName("Year");
             builder.Property(c => c.IsNew).HasColumnName("IsNew");
             builder.Property(c => c.Color).HasColumnName("Color");
-            builder.Property(c => c.Customer).HasColumnName("Customer");
+            //builder.Property(c => c.Customer).HasColumnName("Customer");
 
         }
     }
